@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/WesleyGif">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=WesleyGif&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyGif&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WesleyGif&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyGif&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
   <h2>Linguagens que domino</h2> 
 <div style="display: inline_block"><br>
