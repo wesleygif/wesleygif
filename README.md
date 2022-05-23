@@ -1,7 +1,7 @@
 ## Oiii Eu sou o Wesley Gifoni
 
 
-- 🔭 Hoje trabalho como Mobile Developer
+- 🔭 Hoje trabalho como Desenvolvedor Full Stack/ Desenvolvedor Mobile
 - 🌱 Estudando React-Native/ Python
 - 😄 Pronouns: Ele/dele
 
