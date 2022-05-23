@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho como Desenvolvedor Full Stack/ Desenvolvedor Mobile
-- 🌱 Estudando React-Native/ Python
+- 🌱 Estudando Angular/PostgreSQL/JavaScript
 - 😄 Pronouns: Ele/dele
 
 <div align="center">
