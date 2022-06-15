@@ -1,8 +1,8 @@
 ## Oiii Eu sou o Wesley Gifoni
 
 
-- 🔭 Hoje trabalho como Desenvolvedor Full Stack/ Desenvolvedor Mobile
-- 🌱 Estudando Angular/PostgreSQL/JavaScript
+- 🔭 Hoje trabalho como Developer Mobile
+- 🌱 Estudando JavaScript
 - 😄 Pronouns: Ele/dele
 
 <div align="center">
