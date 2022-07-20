@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho como Developer Mobile React Native
-- 🌱 Estudando JavaScript/TypeScript
+- 🌱 Estudando PHP
 - 😄 Pronouns: Ele/dele
 
 <div align="center">
