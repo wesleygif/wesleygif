@@ -1,8 +1,8 @@
 ## Oiii Eu sou o Wesley Gifoni
 
 
-- 🔭 Hoje trabalho como Developer ReactTs OCC (Oracle Commerce Cloud)
-- 🌱 Estudando: Oracle + React avançado
+- 🔭 Hoje trabalho como Software Enginer
+- 🌱 Estudando: Go
 - 😄 Pronouns: Ele/dele
 
 <div align="center">
