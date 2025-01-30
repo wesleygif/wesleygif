@@ -1,7 +1,7 @@
 ## Oiii Eu sou o Wesley Gifoni
 
 
-- 🔭 Hoje trabalho: Software Engineer at OFM System
+- 🔭 Hoje trabalho: Software Engineer at IBM
 - 🌱 Estudando: Go
 - 😄 Pronouns: Ele/dele
 
