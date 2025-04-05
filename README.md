@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho: Software Engineer at IBM
-- 🌱 Estudando: Go
+- 🌱 Estudando: IA
 - 😄 Pronouns: Ele/dele
 
 <!-- <div align="center">
